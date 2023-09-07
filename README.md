@@ -15,18 +15,18 @@
 
   The simulation runs multiple experiments with varying parameters such as:
 
-    Number of jobs
-    Number of machines
-    Machine speeds
-    Initial state of the system
-    Each experiment is repeated multiple times to ensure statistical validity.
+  Number of jobs
+  Number of machines
+  Machine speeds
+  Initial state of the system
+  Each experiment is repeated multiple times to ensure statistical validity.
 
 # Results and Insights
   The simulation generates detailed statistics and visualizations to provide insights into:
 
-    The most efficient BRD strategy for faster convergence.
-    The impact of machine priorities on system stability.
-    Cases where the system fails to reach equilibrium.
+  The most efficient BRD strategy for faster convergence.
+  The impact of machine priorities on system stability.
+  cases where the system fails to reach equilibrium.
     
 # Contributing
    If you're interested in contributing to this research, please feel free to fork the repository and submit a pull request.
